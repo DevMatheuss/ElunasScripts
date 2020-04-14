@@ -2,7 +2,7 @@ Script info
 
 Name: AnnounceKill
 Author: Roberty
-Repository: https://github.com/merdlin/ElunasScripts/blob/master/killannounce.lua
+Repository: https://github.com/merdlin/ElunasScripts/blob/master/AnnounceKill.lua
 Download: https://github.com/merdlin/ElunasScripts/archive/master.zip
 License: AGPL
 Script integration
